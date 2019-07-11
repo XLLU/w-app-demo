@@ -1,6 +1,6 @@
 import Taro, { Component } from '@tarojs/taro'
-import { View, Text, Image, RichText } from '@tarojs/components'
-import { AtBadge, Swiper, SwiperItem } from 'taro-ui'
+import { View, Text, Image, RichText, Swiper, SwiperItem } from '@tarojs/components'
+import { AtBadge } from 'taro-ui'
 
 class ProductPageCard extends Component {
   static options = {
